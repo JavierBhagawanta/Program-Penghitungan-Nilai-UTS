@@ -108,5 +108,5 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
-**Dibuat dengan ❤ oleh [Nama Anda].**
+**Dibuat dengan ❤ oleh Javier Bhagawanta, Via.**
 
