@@ -108,5 +108,5 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
-**Dibuat dengan ❤ oleh Javier Bhagawanta, Nurul Fitriyatul Mukharramah.**
+**Dibuat dengan ❤ oleh Javier Bhagawanta, dan Nurul Fitriyatul Mukharramah.**
 
