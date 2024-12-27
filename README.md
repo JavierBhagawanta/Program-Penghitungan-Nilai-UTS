@@ -58,8 +58,8 @@ Calculator Nilai UTS adalah aplikasi berbasis Java Swing yang dirancang untuk me
    ```bash
    git clone https://github.com/username/Calculator-Nilai-UTS.git
    ```
-2. Pastikan Anda memiliki Java Development Kit (JDK) versi 8 atau lebih baru.
-3. Buka proyek ini di IDE seperti IntelliJ IDEA atau Eclipse.
+2. Pastikan kamu sudah memiliki Java Development Kit (JDK) versi 8 atau lebih baru (lebih baik menggunkan JDK version 2021 keatas).
+3. Buka proyek ini di IDE seperti IntelliJ IDEA atau Visual Studio Code.
 4. Jalankan file `UTSCalculator.java`.
 
 ## Dependensi
@@ -108,5 +108,5 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
-**Dibuat dengan ❤ oleh Javier Bhagawanta, Via.**
+**Dibuat dengan ❤ oleh Javier Bhagawanta, Fia.**
 
